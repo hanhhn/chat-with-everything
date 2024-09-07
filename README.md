@@ -1,5 +1,7 @@
 # 🍀 Chat with Everything
 
+https://blog.gopenai.com/lab-3-implementing-rag-to-build-a-chat-with-multiple-pdfs-app-88c1d7cd5d19
+
 ### ♥️ A Few Words from the Heart
 Nobody wants to be left out of the booming AI trend, and I am no different. I jumped into learning and was quickly overwhelmed by a sea of technological knowledge. There is so much to study.
 
